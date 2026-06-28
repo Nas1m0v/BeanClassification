@@ -6,7 +6,7 @@
 [![XGBoost](https://img.shields.io/badge/XGBoost-1.5+-red.svg)](https://xgboost.readthedocs.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**机器学习与项目实践 (AIT209) 期末作业 — 基于计算机视觉特征的干豆品种多分类**
+**机器学习与项目实践 (AIT209) 期末作业 — 基于形态特征数据的干豆品种多分类**
 
 ---
 
