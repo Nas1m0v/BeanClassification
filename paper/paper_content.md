@@ -393,7 +393,7 @@ python main.py visualize          # 生成全部图表
 
 ### 6.3 GitHub 展示
 
-项目已上传至 GitHub: [项目链接待填入]
+项目已上传至 GitHub: [https://github.com/Nas1m0v/BeanClassification](https://github.com/Nas1m0v/BeanClassification)
 
 README.md 包含完整的项目文档：数据集描述、数据处理流水线、算法实现列表、精度对比表、项目目录树、详细的安装与使用说明。
 

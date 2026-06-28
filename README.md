@@ -245,7 +245,7 @@ BeanClassification/
 ### 安装
 
 ```bash
-git clone https://github.com/<your-username>/BeanClassification.git
+git clone https://github.com/Nas1m0v/BeanClassification.git
 cd BeanClassification
 pip install -r requirements.txt
 ```
